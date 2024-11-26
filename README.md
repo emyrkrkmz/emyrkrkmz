@@ -11,7 +11,7 @@ I'm a **Data Analyst Intern** with a background in **Industrial Engineering** fr
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn**: [Emir Yusuf Korkmaz](https://linkedin.com/in/emirykorkmaz)  
+- **LinkedIn**: [Emir Yusuf Korkmaz](https://linkedin.com/in/emir-yusuf-korkmaz-121570241)  
 
 ---
 
