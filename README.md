@@ -5,8 +5,9 @@ I'm a **Data Analyst Intern** with a background in **Industrial Engineering** fr
 ---
 
 ### 🌱 Learning & Interests
-- **Web Developing** 
-- **Machine Learning**.  
+- **Web Development** 
+- **Machine Learning**
+- **Data Analytics**  
 
 ---
 
