@@ -1,13 +1,17 @@
 # Hi there 👋 I'm Emir Yusuf Korkmaz
 
-I'm a **Data Analyst Intern** with a background in **Industrial Engineering** from Istanbul Technical University.
+I'm a **Quantitative Analytics Intern in Power Markets**, with a background in **Industrial Engineering** and **Computer Engineering** at Istanbul Technical University.
+
+I work on **data-intensive systems, quantitative models, and real-time analytics**.
 
 ---
 
-### 🌱 Learning & Interests
-- **Web Development** 
-- **Machine Learning**
-- **Data Analytics**  
+### ⚙️ Interests
+
+* Quantitative analysis & time series modeling
+* Machine learning
+* Data engineering & real-time systems
+* Parallel programming
 
 ---
 
